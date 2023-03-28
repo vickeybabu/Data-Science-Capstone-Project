@@ -1,0 +1,6 @@
+
+streamlit==version 1.2.0
+pandas==version 1.1.2
+numpy==version 1.2.1
+pickle==version 1.1.0 
+sklearn==version 1.2.1
